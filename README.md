@@ -1,4 +1,4 @@
-Below is a clean, professional, GitHub-ready **README.md** based on the content shown in your screenshot for **TASK 02**.
+Below is a clean, professional,  **README.md** based on the content  for **TASK 02**.
 
 ---
 
